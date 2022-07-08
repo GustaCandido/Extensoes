@@ -1,0 +1,30 @@
+Extensões para vs code
+ 
+    //React Tools
+    //vscode-icons
+    //vscode-styled-components
+    //Tw Dev Server
+    //prettier - code formatter
+    //portuguese
+    //IntelliSense for CSS class names in HTML
+    //intelicode
+    //colorize
+    //colorHighlight
+    //auto rename tag
+    //auto import
+    //aura theme
+
+Extensões para o google
+
+    //o lighthouse
+    //Window resize 
+    //React Developer Tools
+    //Page ruler
+    //whatfront
+    //json viewr
+    //convertio
+    //site pallete
+    //weappalyzer
+    //Dimensions
+    //Colorzilla
+    /fonts Ninja
